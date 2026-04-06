@@ -1,4 +1,4 @@
-# ilon-oyini
+
 # game.py
 import pygame 
 import random
